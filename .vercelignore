@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+db.sqlite3
+*.sqlite3
+emsp_students_backup.json
+service-account*.json
+*-service-account*.json
+.venv
+venv
+__pycache__
+staticfiles
+media

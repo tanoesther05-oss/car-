@@ -1,0 +1,6 @@
+Django>=5.2,<7.0
+python-dotenv>=1.0
+gspread>=6.1
+google-auth>=2.35
+psycopg[binary]>=3.2
+dj-database-url>=2.2
